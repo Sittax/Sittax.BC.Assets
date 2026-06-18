@@ -1,0 +1,15 @@
+node_modules
+.next
+out
+.git
+.env
+.env.*
+*.log
+coverage
+Dockerfile
+docker-compose.yml
+.dockerignore
+docs
+specs
+.specify
+.claude
